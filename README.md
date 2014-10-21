@@ -1,7 +1,7 @@
 Windows on Devices Two-Way Communicator
 ===================
 
-![alt-text](twc.png "The Two-Way Communicator")
+![alt-text](twc.jpg "The Two-Way Communicator")
 ---------
 **Content**
 -------------
