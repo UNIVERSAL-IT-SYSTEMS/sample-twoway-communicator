@@ -1,7 +1,7 @@
 Windows on Devices Two-Way Communicator
 ===================
 
-![alt-text](twc.jpg "The Two-Way Communicator")
+![alt-text](twc.png "The Two-Way Communicator")
 ---------
 **Content**
 -------------
@@ -43,6 +43,8 @@ You'll need a laptop or desktop running Visual Studio 2013 or later with the cor
 
 ###Hooking Up Components
 ![alt-text](twc.png "Two-Way Communciator Breadboard Diagram")
+
+In the above diagram, White wires are Digital I/O or SPI, Yellow are Analog Signals, Red is 5V Vcc, Black is GND, Grey are the non-varying resistor outputs, and Orangeis the varying resistor input.
 
 Wire up each Galileo as follows:
 
