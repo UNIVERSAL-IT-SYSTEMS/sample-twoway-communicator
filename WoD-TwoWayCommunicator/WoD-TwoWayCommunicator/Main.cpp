@@ -58,7 +58,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		if (digitalRead(CONTROL_BUTTON) == 1)
 		{
 			//stream out when the button is pressed, in 1 second clips
-			audio_manager.StreamOutAnalog(DAC_CS_PIN, CONTROL_BUTTON, MICROPHONE_INPUT, 1);
+			audio_manager.StreamOutAnalog(DAC_CS_PIN, MICROPHONE_INPUT, CONTROL_BUTTON, 1);
 		}
 		else
 		{
