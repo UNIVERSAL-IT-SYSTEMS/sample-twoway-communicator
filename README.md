@@ -130,3 +130,8 @@ PS. What's discussed above are some of the fundamentals of [Digital Signal Proce
 ###Streaming Data with Winsock Networking
 
 Streaming data and communicating over a Network is straightforward when using Windows. Take a look at Communicator.h and Communicator.cpp to see an example of simple UDP communication. For an in-depth discussion and more sample code, check out the documentation on [MSDN](http://msdn.microsoft.com/en-us/library/windows/desktop/ms738545(v=vs.85).aspx)
+
+
+===
+
+This project has adopted the [Microsoft Open Source Code of Conduct](http://microsoft.github.io/codeofconduct). For more information see the [Code of Conduct FAQ](http://microsoft.github.io/codeofconduct/faq.md) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
